@@ -19,6 +19,18 @@ namespace CodingExamples.Data.Mgr
             }
         }
 
+        public List<string> ToList()
+        {
+            List<string> list = new List<string>();
+            Node current = head;
+            while (current != null)
+            {
+                list.Add(current.data.ToString());
+                current = current.next;
+            }
+            return list;
+        }
+
         public void AddFirst(Object data)
         {
             Node toAdd = new Node();
@@ -53,12 +65,12 @@ namespace CodingExamples.Data.Mgr
             }
         }
 
-        public void DeleteLast(Object data)
+        public void DeleteLast()
         {
 
         }
 
-        public void DeleteFirst(Object data)
+        public void DeleteFirst()
         {
 
         }

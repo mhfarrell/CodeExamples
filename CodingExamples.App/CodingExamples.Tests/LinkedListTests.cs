@@ -1,3 +1,4 @@
+using CodingExamples.Data.Class;
 using CodingExamples.Data.Mgr;
 using System;
 using Xunit;
@@ -8,25 +9,56 @@ namespace CodingExamples.Tests
     {
         LinkedListMgr linkedListMgr = new LinkedListMgr();
 
-
         [Fact]
         public void addFirstExpectCorrectOrder()
         {
-            LinkedListMgr linkedListMgr = new LinkedListMgr();
+            LinkedListMgr list = new LinkedListMgr();
+            list.AddFirst("Hello");
+            list.AddFirst("Magical");
+            list.AddFirst("World");
 
-            LinkedListMgr list1 = new LinkedListMgr();
-            list1.AddFirst("Hello");
-            list1.AddFirst("Magical");
-            list1.AddFirst("World");
-
-            LinkedListMgr list2 = new LinkedListMgr();
-            list2.AddLast("Hello");
-            list2.AddLast("Magical");
-            list2.AddLast("World");
-            var result = 0;
-                //linkedListMgr = linkedListMgr.AddFirst("");
-            Assert.Equal(0, result);
+            var result = list.ToList();
+            Assert.Equal("World", result[0]);
         }
+        [Fact]
+        public void deleteFirstExpectCorrectOrder()
+        {
+            LinkedListMgr list = new LinkedListMgr();
+            list.AddFirst("Hello");
+            list.AddFirst("Magical");
+            list.AddFirst("World");
+
+            list.DeleteFirst();
+            var result = list.ToList();
+            Assert.Equal(2, result.Count);
+            Assert.NotEqual("World", result[0]);
+        }
+
+        [Fact]
+        public void addLastExpectCorrectOrder()
+        {
+            LinkedListMgr list = new LinkedListMgr();
+            list.AddLast("Hello");
+            list.AddLast("Magical");
+            list.AddLast("World");
+
+            var result = list.ToList();
+            Assert.Equal("Hello", result[0]);
+        }
+
+        [Fact]
+        public void deleteLastExpectCorrectOrder()
+        {
+            LinkedListMgr list = new LinkedListMgr();
+            list.AddLast("Hello");
+            list.AddLast("Magical");
+            list.AddLast("World");
+
+            var result = list.ToList();
+            Assert.Equal(2, result.Count);
+            Assert.Equal("Hello", result[0]);
+        }
+
         [Fact]
         public void checkForExceptions()
         {
