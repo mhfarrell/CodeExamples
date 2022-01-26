@@ -1,0 +1,17 @@
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.csproj.AssemblyReference.cache
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.AssemblyInfoInputs.cache
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.AssemblyInfo.cs
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.csproj.CoreCompileInputs.cache
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.App.exe
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.App.deps.json
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.App.runtimeconfig.json
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.App.runtimeconfig.dev.json
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.App.dll
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.App.pdb
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.Data.dll
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\bin\Debug\netcoreapp3.1\CodingExamples.Data.pdb
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.csproj.CopyComplete
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.dll
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.pdb
+C:\Users\quick\Documents\GitHub\CodeExamples\CodingExamples.App\CodingExamples.App\obj\Debug\netcoreapp3.1\CodingExamples.App.genruntimeconfig.cache
