@@ -41,7 +41,7 @@ namespace CodingExamples.Data.Mgr
         private IList<int> CleanNumbers(string numbers)
         {
             var nums = numbers.Split(SEPERATORS.ToArray(), StringSplitOptions.RemoveEmptyEntries);
-            var cleaned = new List<int>();
+            List<int> cleaned = new List<int>();
             foreach (var num in nums)
             {
                 var cleanedNumber = int.Parse(num);

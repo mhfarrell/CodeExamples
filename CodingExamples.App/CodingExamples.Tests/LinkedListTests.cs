@@ -7,8 +7,6 @@ namespace CodingExamples.Tests
 {
     public class LinkedListTests
     {
-        LinkedListMgr linkedListMgr = new LinkedListMgr();
-
         [Fact]
         public void addFirstExpectCorrectOrder()
         {
