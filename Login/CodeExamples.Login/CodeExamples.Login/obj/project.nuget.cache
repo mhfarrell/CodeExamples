@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VE8NwcakPDzseHa9ntRvVtG9VJeznLgBwSNOl3YRL/0fnAQaDRB8Ku5bQATYB5qkJ5nz7fRAMUW3bVcflCrcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quick\\Documents\\GitHub\\CodeExamples\\Login\\CodeExamples.Login\\CodeExamples.Login\\CodeExamples.Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quick\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
