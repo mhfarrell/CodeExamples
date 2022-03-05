@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5DJbMtY0/W2KGJy+5GeH09Op1k5b4xiooM0eUvsrVr2sPmhlieNQCHQ+lkrhEMdMIt4xpY3n/BFdNpiDKbJsTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quick\\Documents\\GitHub\\CodeExamples\\Api\\CodeExamples\\CodeExamples\\CodeExamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quick\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
